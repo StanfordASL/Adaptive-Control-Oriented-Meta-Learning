@@ -1,6 +1,6 @@
 # Adaptive-Control-Oriented Meta-Learning for Nonlinear Systems
 
-This repository accompanies the paper ["Adaptive-Control-Oriented Meta-Learning for Nonlinear Systems"](http://asl.stanford.edu/) [1].
+This repository accompanies the paper ["Adaptive-Control-Oriented Meta-Learning for Nonlinear Systems"](https://arxiv.org/abs/2103.04490) [1].
 
 
 ## Getting started
@@ -27,10 +27,10 @@ Please use the following bibtex entry to cite this work.
 author  = {Richards, S. M. and Azizan, N. and Slotine, J.-J. E. and Pavone, M.},
 title   = {Adaptive-control-oriented meta-learning for nonlinear systems},
 year    = {2021},
-note    = {Submitted. Available at \url{http://asl.stanford.edu/}},
+note    = {Submitted. Available at \url{https://arxiv.org/abs/2103.04490}},
 }
 ```
 
 
 ## References
-[1] S. M. Richards, N. Azizan, J.-J. E. Slotine, and M. Pavone. Adaptive-control-oriented meta-learning for nonlinear systems. Submitted. Available at <http://asl.stanford.edu/>, 2021.
+[1] S. M. Richards, N. Azizan, J.-J. E. Slotine, and M. Pavone. Adaptive-control-oriented meta-learning for nonlinear systems. Submitted. Available at <https://arxiv.org/abs/2103.04490>, 2021.
