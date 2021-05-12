@@ -23,14 +23,15 @@ Finally, test results for Figures 3 and 4 in [1] can be produced with the comman
 
 Please use the following bibtex entry to cite this work.
 ```
-@UNPUBLISHED{RichardsAzizanEtAl2021,
-author  = {Richards, S. M. and Azizan, N. and Slotine, J.-J. E. and Pavone, M.},
-title   = {Adaptive-control-oriented meta-learning for nonlinear systems},
-year    = {2021},
-note    = {Submitted. Available at \url{https://arxiv.org/abs/2103.04490}},
+@INPROCEEDINGS{RichardsAzizanEtAl2021,
+author    = {Richards, S. M. and Azizan, N. and Slotine, J.-J. E. and Pavone, M.},
+title     = {Adaptive-control-oriented meta-learning for nonlinear systems},
+booktitle = {Robotics: Science and Systems},
+year      = {2021},
+note      = {In press. Available at \url{https://arxiv.org/abs/2103.04490}},
 }
 ```
 
 
 ## References
-[1] S. M. Richards, N. Azizan, J.-J. E. Slotine, and M. Pavone. Adaptive-control-oriented meta-learning for nonlinear systems. Submitted. Available at <https://arxiv.org/abs/2103.04490>, 2021.
+[1] S. M. Richards, N. Azizan, J.-J. E. Slotine, and M. Pavone. Adaptive-control-oriented meta-learning for nonlinear systems. In *Robotics: Science and Systems*, 2021. In press. Available at <https://arxiv.org/abs/2103.04490>.
