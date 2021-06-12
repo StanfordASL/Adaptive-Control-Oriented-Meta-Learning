@@ -340,7 +340,7 @@ def odeint_fixed_step(func, x0, t0, t1, step_size, *args):
     """TODO: docstring."""
     # Use `numpy` for purely static operations on static arguments
     # (see: https://github.com/google/jax/issues/5208)
-    num_steps = np.maximum(np.abs((t1 - t0)/step_size), 1)
+    num_steps = int(np.maximum(np.abs((t1 - t0)/step_size), 1))
 
     ts = jnp.linspace(t0, t1, num_steps + 1)
     xs = odeint_ckpt(func, x0, ts, *args)
